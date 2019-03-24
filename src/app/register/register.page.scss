@@ -1,0 +1,19 @@
+ion-title,h3{
+	text-shadow:2px 2px 2px #000;
+}
+
+.username{
+    --border-radius: 25px 25px 0px 0px;
+}
+
+.cPassword{
+    --border-radius: 0px 0px 25px 25px;
+}
+
+ion-item{
+    --box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.register, backlogin{
+	--box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
